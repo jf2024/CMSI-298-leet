@@ -2,7 +2,8 @@
  * @param {number} x
  * @return {number}
  */
-var reverse = function(x) {
+function reverse(x) {
+
     let negative = x < 0;
     let reversed = 0;
     
@@ -20,4 +21,5 @@ var reverse = function(x) {
     }
     
     return negative ? (reversed * -1) : reversed; 
-};
+    
+}
