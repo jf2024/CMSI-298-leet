@@ -1,5 +1,5 @@
-# CMSI-298-leet
+# CMSI-298-LeetCode-Projects
 
-CMSI 298 - Leetcode Projects (Second Semester - Freshman)
+- This was made during my Freshman Year, Second Semester (Spring 2021).
 
-- Hi Marco and Maya! I'm committing a few files from last semester to practice Github/Git. Thanks!
+* Here are the leetcode interview questions/answers that we went over for class. Please ignore the one with the Python extension as I was practicing with Professor Toal in setting up my repo and pratcing with knowing Git/GitHub in general.
