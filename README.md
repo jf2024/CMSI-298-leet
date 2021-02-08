@@ -6,3 +6,4 @@ This was made during my Freshman Year, Second Semester (Spring 2021).
   - Reverse-Int.js = Reverse Integar
   - subarray.js = Maximum Average Subarray I
   - fizzbuzz.js = FizzBuzz Problem
+  - removeduplicates.js = Remove Duplicates from Subarray
