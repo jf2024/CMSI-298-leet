@@ -7,3 +7,4 @@ This was made during my Freshman Year, Second Semester (Spring 2021).
   - subarray.js = Maximum Average Subarray I
   - fizzbuzz.js = FizzBuzz Problem
   - removeduplicates.js = Remove Duplicates from Subarray
+  - lengthlastword.js = Length of Last Word
