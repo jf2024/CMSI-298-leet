@@ -10,3 +10,4 @@ This was made during my Freshman Year, Second Semester (Spring 2021).
   - lengthlastword.js = Length of Last Word
   - anagram.js = Valid Anagram Problem
   - countprimes.js = Count Primes
+  - removevowels.js = Remove Vowels Problem
