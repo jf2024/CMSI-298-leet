@@ -11,3 +11,4 @@ This was made during my Freshman Year, Second Semester (Spring 2021).
   - anagram.js = Valid Anagram Problem
   - countprimes.js = Count Primes
   - removevowels.js = Remove Vowels Problem
+  - linkedlist.js = Linked List Cycle Problem
