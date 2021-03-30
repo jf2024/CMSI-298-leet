@@ -12,3 +12,5 @@ This was made during my Freshman Year, Second Semester (Spring 2021).
   - countprimes.js = Count Primes
   - removevowels.js = Remove Vowels Problem
   - linkedlist.js = Linked List Cycle Problem
+  - ipAdress.js = Defaning IP Address Problem
+  - shufflearray.js = Shuffle the Array Problem
