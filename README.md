@@ -14,3 +14,5 @@ This was made during my Freshman Year, Second Semester (Spring 2021).
   - linkedlist.js = Linked List Cycle Problem
   - ipAdress.js = Defaning IP Address Problem
   - shufflearray.js = Shuffle the Array Problem
+  - mergedarray.js = Merge Sorted Array Problem
+  - mergedlist.js = Merge Two Sorted Lists Problem
